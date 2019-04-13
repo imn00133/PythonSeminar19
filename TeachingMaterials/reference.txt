@@ -1,0 +1,250 @@
+Detect whether a Python string is a number or a letter
+https://stackoverflow.com/questions/40097590/detect-whether-a-python-string-is-a-number-or-a-letter
+
+GUI - qtdesigner
+https://nanite.tistory.com/53
+https://tariat.tistory.com/209
+
+exception
+https://docs.python.org/ko/3/tutorial/errors.html
+https://code.tutsplus.com/ko/tutorials/professional-error-handling-with-python--cms-25950
+
+장고
+https://www.inflearn.com/course/django-web-programming/?fbclid=IwAR2cXEC1c7_8zYvWz6_RRFoeiwWab6BFsDvzSAQRkpwO62_2GXmNS2lBbhU
+https://tutorial.djangogirls.org/ko/
+
+python path
+파일과 디렉터리 경로 다루기
+http://pythonstudy.xyz/python/article/507-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC
+상위, 하위, 동일 폴더 내 모듈 import
+http://brownbears.tistory.com/296
+절대, 상대, 현재 경로 찾기
+https://wikidocs.net/3716
+현재 디렉터리 위치 알기
+https://hashcode.co.kr/questions/197/python%EC%9C%BC%EB%A1%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%9C%84%EC%B9%98%EB%A5%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95
+sys.path
+https://docs.python.org/ko/3/library/sys.html#sys.path
+As initialized upon program startup, the first item of this list, path[0], is the directory containing the script that was used to invoke the Python interpreter. If the script directory is not available (e.g. if the interpreter is invoked interactively or if the script is read from standard input), path[0] is the empty string, which directs Python to search modules in the current directory first. Notice that the script directory is inserted before the entries inserted as a result of PYTHONPATH.
+
+git rebase
+http://jusths.tistory.com/60?category=786257
+
+python open(mode) +가 있을 때와 없을 때.
+https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
+
+합천영상테마파크
+
+josn pickle 데이터 저장
+https://docs.python.org/ko/3/tutorial/inputoutput.html
+
+객체 모델링 책
+https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/
+
+싸지방에서 코딩을 해봅시다.
+https://lalafell.network/lalafell/coding-on-ssajibang
+
+공공데이터포털
+https://www.data.go.kr/dataset/3072459/fileData.do
+
+나만의 웹 크롤러 만들기
+https://beomi.github.io/gb-crawling/
+
+assert 문
+https://docs.python.org/3/reference/simple_stmts.html#assert
+https://stackoverflow.com/questions/5142418/what-is-the-use-of-assert-in-python
+
+카카오페이지 웹 React 포팅 후기
+https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031
+Jongseok Lee 답변들 감사합니다. 저는 jsp php 로 홈페이지를 주로 만들고싶은데요... 추천해주실만한 자바스크립트 프레임워크(?)를 추천해주실 수 있으신가요? spring과 laravel을 주로 사용합니다 !
+나윤환
+나윤환 Jongseok Lee 라라벨과 스프링이 프레임워크입니다. 다른 프레임워크를 쓴다면 저 두 개가 아닌 다른 환경을 써야합니다 ㅎㅎ
+Jongseok Lee 나윤환 아 그렇다면 이 프레임워크들 안에서 자바스크립트가 동작하는 방식이 다르다는 말씀이신가요? 저 두가지를 최근부터 시작하게되서 이해가잘안되네요.. 예를들어 라라벨안에서 자바스크립트를 동작시키는 방식이 순수자바스크립트와는 다른것인가요?
+Jongseok Lee 그렇다면 현재 짜고있는 순수자바스크립트코드들은 프레임워크안에서는 무용지물인건가요..?
+양정윤 JSP, PHP는 서버에서 HTML을 랜더링해서 내려주는 방식인거고, 최근 자바스크립트 웹 프레임워크(React, Vue, Angular)라 함은 브라우저 코드(클라이언트)에서 자체적으로 HTML을 랜더링하고 데이터는 RESTful API로 받아오는 형태를 말합니다.
+나윤환 Jongseok Lee. 라라벨은 php를 이용해서 서버사이드를 구성하게끔하는 프레임워크고, 스프링은 java를 이용해서 서버사이드를 구성하게끔 하는 프레임워크죠
+요즘은 서버사이드와 클라이언트 사이드를 분리하는 추세입니다.
+React나 vue, angular로 클라이언트 사이드를 구축하고, 서버는 php를 쓴다면 라라벨, js를 쓴다면 Node, 자바를 쓴다면 스프링 등.. 다양한 서버사이드 프레임워크를 이용해서 Restful Api로 서로 통신합니다
+나윤환 이후 더 나아가면 SSR(서버 사이드 렌더링)이나 GraphQL도 공부하면 좋습니다
+나윤환 요약하자면, 최근 웹 개발 트렌드는 클라이언트/서버가 따로 존재하고 클라이언트는 SPA(Single-Page-Application)으로 개발하며,
+서버는 각 언어별 프레임워크(JS-Node, PHP-Laravel, Python-Django, Flask etc..)를 통해서 RESTful API를 구축하고
+클라이언트와 서버간 통신은 비동기로 처리합니다.
+SPA에 대해서 좀 더 검색하시면 트렌드가 많이 나올거에요
+양정윤 지금 SPA 프레임워크 시장에서 리액트 지분이 70% 정도로 지배적인 것 같고요. 뷰가 점유율 25% 대안으로 주목 받고 있으며, 앵귤러는 많이 죽은것 같습니다. 그러므로 리액트나 뷰 중에 선택하시는게 무난할 것 같네요. 서버는 스프링이든 라라벨이던 RESTful API를 제공할 수 만 있다면 뭐든 상관 없을 것 같습니다
+박하현 개인적으론 라라벨 진영에서 뷰를 밀고있기 때문에, 뷰를 추천합니다! 러닝커브도 리액트보다 낮기도 하고요.
+
+이것이 자바다. 자바의 신
+
+강원대 컴퓨터 데이터 강의
+https://cs.kangwon.ac.kr/~ysmoon/courses.html
+
+컴퓨터공학 석사 전에 알았으면 좋았을 것듫
+https://m.blog.naver.com/PostView.nhn?blogId=alice_k106&logNo=221447654146&proxyReferer=https%3A%2F%2Fblog.naver.com%2Falice_k106%2F221447654146&fbclid=IwAR1Y7t3H1g4jSOkDqnCInY3mZ04d7Foh1opCcBpai_0xsendSb8f5C4m3lY
+
+객체지향 프로그래밍 연습하기 좋은 방법
+https://www.slipp.net/questions/475?fbclid=IwAR24qo7b-L5y8keXgc2SZbJ1zc_UkXlqREyr0Y17CJMjRpE9UmHmIkn4ZU4
+
+Gut microbial metabolites in obesity, NAFLD and T2DM
+https://www.nature.com/articles/s41574-019-0156-z?utm_source=facebook&utm_medium=social&utm_content=organic&utm_campaign=NRRJ_2_SJB_reviews_editorial_socialposts&fbclid=IwAR3pl2Ju1UB1pahWTJYYTMf6ncjXSBW6Tk68YaJ-FW3ZC08y4uOyhJe8xHs3
+
+How to explore chemical space using algorithms and automation
+https://www.nature.com/articles/s41570-018-0066-y?utm_source=facebook&utm_medium=social&utm_content=organic&utm_campaign=NRRJ_2_SJB_reviews_editorial_socialposts&fbclid=IwAR3AtnG5HVHRK9BYhCWtoHjX2G8cgWBeqvLm3iUBREvh_Yu51XmEFg33HFA
+
+마크다운 설명서
+https://gist.github.com/ninanung
+
+vi
+https://greatkim91.tistory.com/m/196?fbclid=IwAR3ZZEGsRqLTk_C5XlJJ75fjGpj1HWrmEsTlkqBP9YNwANzlr9hzH6FoQKs
+
+드론만들기
+https://m.blog.naver.com/PostView.nhn?blogId=scw0531&logNo=221285498257&targetKeyword=&targetRecommendationCode=1
+
+과학-그래픽 만드는 툴
+https://mindthegraph.com/
+
+알고리즘 학습에 대한 조언(면접)
+https://edykim.com/ko/post/advice-on-learning-algorithms/?fbclid=IwAR3C_766f4uRj2XhsovDkrXXIuWoB5YH6xU_YraCCjCJzRCPoadL17cyKmA
+
+교수/학습을 위한 20가지 심리학 핵심 원칙
+https://www.apa.org/ed/schools/teaching-learning/top-twenty-principles-korean.pdf
+
+세가의 신입 사원 교육 과정에서 배우는 게임 프로그래밍의 정석
+http://www.hanbit.co.kr/store/books/look.php?p_code=B9727823975
+
+git
+-오픈튜토리얼
+https://opentutorials.org/module/2676/15261
+-우아한형제들-git-flow
+http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
+-그래프형 커밋 히스토리
+https://kweon.tistory.com/4
+좋은 git 커밋 메시지 작성하기
+https://meetup.toast.com/posts/106
+
+웹크롤링
+나만의 웹크롤링 만들기
+https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/?fbclid=IwAR2BC36Qj4Cy_Ktthgz84dvcM06izDlGVElwQYsC66-KwSz4OFEeK0htc2o
+
+r마크다운
+https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
+
+datetime 시간대관련
+pytz
+https://edykim.com/ko/post/pytz-python-library-for-world-time-zone-definition/
+스포카-python 시간대
+https://spoqa.github.io/2019/02/15/python-timezone.html
+
+기술블로그
+업체별 기술블로그
+https://medium.com/@Dongmin_Jang/%EC%97%85%EC%B2%B4%EB%B3%84-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8-e2d736d0e658
+스포카 기슬블로그
+https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html
+
+html, css
+https://www.w3schools.com/?fbclid=IwAR0G2bKnKzrutluAhmN6k3fFj64_6V9GmHnTYt7TUBHgPD6V2KgdIGHxLOc
+veamcamp
+https://www.youtube.com/veamcamp?fbclid=IwAR2xdXKoI1320q_LTO2nkIgvJGf677Qn9dZzzMY5rx3kwDLeMtsumWXdEak
+
+딥러닝을 이용한 자연어 처리 입문
+https://wikidocs.net/book/2155
+딥러닝을 이용한 자연어 처리 심화
+https://wikidocs.net/book/2159
+텐서플로 블로그-책
+https://tensorflow.blog/
+솔라리스의 인공지능 연구실
+
+상담심리
+https://m.blog.naver.com/PostView.nhn?blogId=ezerkenegdo8&logNo=220824260725
+https://lazini.tistory.com/75
+
+알고리즘 트레이딩
+https://wikidocs.net/book/110
+
+12 of the best free Natural Language Processing and Machine Learning educational resources
+http://blog.aylien.com/12-of-the-best-free-natural-language-processing-and-machine-learning-educational-resources/?fbclid=IwAR0Y8rZps7CkFMxiAsp56tJFQOcRjJTfn0XSvT6MKiIau4WBI7o6bL2XY68
+
+javascript 책 추천
+https://asfirstalways.tistory.com/246
+
+고려사항
+데이터베이스 구축, 인공지능, 약물바이오데이터에 관심있는 개발자님을 구인중에 있습니다. 많은지원부탁드려요!
+
+채용 상세
+1. 담당업무: 
+-약물데이터 DB구축
+-인공지능 알고리즘 추천서비스 개발
+-Python, R, SQL
+
+2. 자격요건: 
+-DB구축경험
+-4대보험 의무가입
+
+3. 우대사항
+-영어 커뮤니케이션 능력
+-MongoDB, Hbase등 NoSQL 데이터 모델링과 시스템 구축
+-AWS 등의 클라우드 기반 인프라 활용
+-웹 프론트엔드 개발 경력
+
+4. 근무시간: 주 5일 
+-급여: 400만원
+-iMac제공, 4대보험가입
+-회사위치: 강남역 부근
+
+5. 지원방법제출서류 : 지원서(이력서, 자기소개서 등)
+-문의 및 지원 : 이메일 bioaihealth@gmail.com
+
+* 바이오에이아이는 이렇게 일해요.
+1. 직급이 없는 수평문화를 지향해요.
+2. 자율적으로 스스로 일해요.
+3. 자신이 하는일이 재미있는 분들이 일하고 있어요.
+4. 구성원에게 도움이 된다면 회사는 얼마든지 변화할 준비가 되어있어요.
+
+바이오 지능방-서울대학교
+장병탁교수
+https://bi.snu.ac.kr/~scai/
+
+git-graph
+https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
+
+서체-타이포 그래피 책
+http://www.typographyseoul.com/news/detail/563
+http://font.co.kr/thet/thet_detail.asp?itemIdx=3933&itemType=34
+http://www.fontclub.co.kr/?p=3666
+책에는 어떤 서체
+http://www.bookk.co.kr/community/knowhow/read?id=22
+
+
+https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/?fbclid=IwAR3OD9x6Y8qmjZektdQOBqjKA6xCxdSU226KQHovuscYIBEg45EMCC-Zw9k
+https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff?fbclid=IwAR2p6pAfnbXEyfOU3aFAE66uEfLz15ERPp0brz8DzE-jrSf4pdTCaLu79tY
+
+개인 프로젝트
+https://medium.com/@hatemogi
+
+안반데기-강릉
+설매재
+
+Rest API 백엔드 만들기
+https://medium.com/aha-official/tagged/development
+
+Javascript 책
+https://brunch.co.kr/@timotolkie/25
+https://asfirstalways.tistory.com/246
+
+패스워드 암호화
+https://ppss.kr/archives/16823
+https://brunch.co.kr/@jangcnet/11
+
+python 오픈소스 50개
+https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0?fbclid=IwAR1mQE0bzBRS6ISIzdR3TZbajiwYnv_NjqdXx30HYEHXV4lA2xeJXy5kYpA
+
+전자서명
+https://d2.naver.com/helloworld/744920
+
+https://www.realclass.co.kr/class?cId=7&type=package
+
+머신러닝 인터뷰 준비
+https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8/edit?fbclid=IwAR1rtLpTZKScwLHPJmFYfLiI4r98wyMfZzS6kK_vcI3jLrs_dwkJtai-PwE
+
+장고
+https://www.inflearn.com/course/%EB%82%98%EC%9D%98-%EC%B2%AB-django-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/
+장고-documentation 및 튜토리얼
+https://docs.djangoproject.com/ko/2.2/
