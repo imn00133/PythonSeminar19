@@ -13,14 +13,15 @@ TeachingMaterials에는 강의 파일 및 강의 자료에 들어간 파일, git
 만든이: 상병 김재형  
 이메일: imn00133@gmail.com   
 
-주교재:  
+## 사용교재
+### 주교재
 * Do it! 점프 투 파이썬  
 * 뇌를 자극하는 파이썬 3
 * 코딩도장
 * 컴퓨팅 사고
 * 코딩을 지탱하는 기술
 
-부교재:  
+### 부교재
 * 컴퓨터 사이언스 부트캠프 with 파이썬
 * 전문가를 위한 파이썬
 * Python 더 쉽게, 더 깊게
@@ -40,7 +41,7 @@ TeachingMaterials에는 강의 파일 및 강의 자료에 들어간 파일, git
 * 파이썬을 이용한 웹 크롤링과 스크레이핑
 * 파이썬으로 데이터 주무르기
 
-참고링크:  
+### 참고링크
 * [점프 투 파이썬](https://wikidocs.net/book/1)
 * [파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/book/1553)
 * [파이썬3에 뛰어들기](https://juehan.github.io/DiveIntoPython3_Korean_Translation/)
@@ -59,11 +60,12 @@ TeachingMaterials에는 강의 파일 및 강의 자료에 들어간 파일, git
 * [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 * [realpython/python3-OOP](https://realpython.com/python3-object-oriented-programming/)
 
-참고자료:
+### 참고자료:
 * 리눅스 마스터 1급 정복하기
 * 쉽게 배우는 알고리즘: 관계중심의 사고법
 
 ## 19-1차 python seminar (2019.04.13-07.13)
-주강사:  
-보조강사:  
-참여자: 
+주강사: 상병 김재형  
+보조강사: 일병 김\*민  
+수강생:  
+청강생:  
