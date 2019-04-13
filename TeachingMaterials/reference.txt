@@ -248,3 +248,12 @@ https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8/
 https://www.inflearn.com/course/%EB%82%98%EC%9D%98-%EC%B2%AB-django-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/
 장고-documentation 및 튜토리얼
 https://docs.djangoproject.com/ko/2.2/
+
+딥러닝의 30가지 적용사례
+https://brunch.co.kr/@itschloe1/23
+
+수아랩-딥러닝
+http://research.sualab.com/introduction/2017/10/10/what-is-deep-learning-1.html
+
+인공지능 역사와 딥러닝 현황
+https://kbig.kr/sites/default/files/pds/%282%ED%9A%8C%EC%B0%A8%29%20K-ICT%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0_%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B5%90%EC%9C%A1_%EC%B4%88%EA%B8%89%280830%29.pdf
