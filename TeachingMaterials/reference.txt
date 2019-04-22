@@ -268,3 +268,7 @@ https://ppss.kr/archives/93090?fbclid=IwAR0i7QHYR9PGgLu6K_HTJkuLGCbRwExac_67oKPw
 
 github 이용 흐름
 https://blog.outsider.ne.kr/866
+
+call by object reference(assignment)
+https://item4.github.io/2015-07-18/Some-Ambiguousness-in-Python-Tutorial-Call-by-What/
+https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/
