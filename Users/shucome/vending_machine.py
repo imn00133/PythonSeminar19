@@ -1,0 +1,6 @@
+inputmoney = int(input("돈을 넣어주세요 : "))
+print("1. 블랙커피(100원)")
+print("2. 밀크커피(150원)")
+print("3. 고급커피(200원)")
+print("4. 거스름돈 ")
+print("넣은 돈 : %d" %inputmoney)
