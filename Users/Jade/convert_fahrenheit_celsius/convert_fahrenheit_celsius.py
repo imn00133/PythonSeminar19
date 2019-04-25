@@ -1,0 +1,6 @@
+# 입력
+fahrenheit = float(input("변환할 화씨온도(℉)를 입력하십시오: "))
+celsius = (fahrenheit - 32) * 5/9
+
+# 출력
+print("%.2f℉는 %.2f℃입니다." % (fahrenheit, celsius))

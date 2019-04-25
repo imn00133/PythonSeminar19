@@ -1,8 +1,13 @@
-global fah, cel
+fah = float(input("변환할 화씨온도(℉)를 입력하십시오: "))
+cel = (fah - 32) * 5/9
+print("%0.2f℉는 %0.2f℃입니다." % (fah, cel))
 
-fah = input("변환할 화씨온도(℉)를 입력하십시오: ")
-cel = (float(fah) - 32) * 5/9
-print("%0.2f℉는 %0.2f℃입니다." %(float(fah), float(cel)))
+#### #Original ###########################################################
+# global fah, cel
+#
+# fah = (input("변환할 화씨온도(℉)를 입력하십시오: "))
+# cel = (fah - 32) * 5/9
+# print("%0.2f℉는 %0.2f℃입니다." %(float(fah), float(cel)))
 
 # python에서 변수를 사용하기 위해 global을 사용하실 필요는 없습니다.
 # python은 맨 처음에 선언을 해주지 않아도 문제 없습니다.
