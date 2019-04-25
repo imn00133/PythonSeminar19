@@ -272,3 +272,6 @@ https://blog.outsider.ne.kr/866
 call by object reference(assignment)
 https://item4.github.io/2015-07-18/Some-Ambiguousness-in-Python-Tutorial-Call-by-What/
 https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/
+
+inerning(Cpython) 정리 글
+https://nephtyws.github.io/python/interning/?fbclid=IwAR37DSB477s0tACZDPED6aUqTpzT6rdI2QhEnp9rFOX7NoPEK6hhA0pIY8E
