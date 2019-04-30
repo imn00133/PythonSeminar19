@@ -30,3 +30,16 @@ else:
 
 # 프로그램을 종료하기 전에 항상 돈을 반환하도록 작성한다.
 print("돈을 반환합니다.: %d원" % input_money)
+
+# if문의 중첩으로 인해 계산부분을 이해하기 어려울 수 있다. if ~ elif ~ else문을 대체해서 사용할 수 있다.
+# if 0 <= select_value < len(item_list)-1:
+#     if input_money >= item_list[select_value][1]:
+#         input_money -= item_list[select_value][1]
+#         print("%s이/가 나왔습니다." % item_list[select_value][0])
+#     else:
+#         print("돈이 부족합니다.")
+# elif select_value == len(item_list)-1:
+#     print("돈을 반환합니다.: %d원" % input_money)
+# else:
+#     print("물품번호를 잘못 입력하셨습니다.")
+#     print("돈을 반환합니다.: %d원" % input_money)
