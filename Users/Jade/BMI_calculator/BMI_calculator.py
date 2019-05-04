@@ -31,3 +31,21 @@ else:
 			
 # 출력
 print("%s" % status)
+
+# 빨간줄이 그어지는 이유는, 인덴팅이 tap으로 되어있기 때문입니다.
+# 구름IDE->기본설정->에디터(기본탭)->인덴팅에서 인덴트 단위를 스페이스로 해주시면 됩니다.
+# if else구문을 if~ elif고 고치시는게 보기 좋습니다. 너무 if문이 깊게 들어가면 가독성이 떨어집니다.
+# ex)
+# if BMI < 18.5:  # BMI < 18.5
+#     status = status[0]
+# else:
+#     if BMI < 23:  # 18.5 < BMI < 23
+#        status = status[1]
+# =>
+# if BMI < 18.5:
+#     status = status[0]
+# elif BMI < 23:
+#     status = status[1]
+# 인라인 주석(구문 뒤에 주석이 들어가는 것)은 피하시는게 좋습니다.
+# 수고하셨습니다.
+# 주강사 김재형
