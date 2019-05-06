@@ -15,3 +15,6 @@ elif BMi_value < 35:
     print("%s" % BMi_type[4])
 elif BMi_value >= 35:
     print("%s" % BMi_type[5])
+
+# 잘 해결하셨습니다.
+# 주강사 김재형
