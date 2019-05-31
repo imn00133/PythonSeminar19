@@ -28,7 +28,7 @@ while True:
     # 따라서 오류(out of index)가 나면서 오류가 발생하는 것입니다.
     # 이에 대한 해결이 43번째 주석입니다.
     # len(item_list)와 len(control_list)를 합쳐서 계산하는 것이 아닌,
-    # len(item_list)를 조건으로 하는 if문 하나, control_list만 계산할 수 있는 elif하나를 만들어야 합니다.
+    # len(item_list)를 조건으로 하는 if문 하나, control_list만 계산할 수 있는 elif하나를 만드셔야 합니다.
     else:
         print("물품번호를 잘못 입력하였습니다.")
     print("돈을 반환합니다.: %d" % input_money)
