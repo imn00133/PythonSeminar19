@@ -33,7 +33,7 @@ for i in range(inp * inp-1):
 
 for i in range(inp):
     for j in range(inp):
-        print("%d " % arr[i][j],end='')
+        print("%d " % arr[i][j], end='')
     print("")
 
 # 잘 만들었으나, 과제가 정사각만 확인하지 않습니다..?
