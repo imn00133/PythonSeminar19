@@ -10,6 +10,13 @@ Diary는 수업을 진행하면서 생각한 점 및 개선점, 평가를 적어
 TeachingMaterials에는 강의 파일 및 강의 자료에 들어간 파일, git 실험 파일들이 들어가있다.  
 강의 자료는 TeachingMaterials/lecuter_file 디렉터리를 참고한다.
 
+## 주의사항
+본 프로젝트는 종료되었으며, 최신 내용은 https://github.com/imn00133/PythonSeminar 에서 진행한다.
+
+강의는 https://bk-worm.tistory.com 에서 읽어볼 수 있다.
+
+
+## 프로젝트 제작자
 만든이: 상병 김재형  
 이메일: imn00133@gmail.com   
 
